@@ -1,6 +1,6 @@
-# GreenPulse AI 🌱
+# GreenPulse AI 🌱/ Echosphere AI 🌱
 
-**GreenPulse AI** is an advanced, fully responsive AI-powered agricultural intelligence platform developed by **Quantum Minds** (Humam Khalil, Muhammad Amin, and Dawood Shah) for the AtomCamp Hackathon.
+**GreenPulse AI** is an advanced, fully responsive AI-powered agricultural intelligence platform developed by **Quantum Minds** (Humam Khalil, Muhammad Amin, and Dawood Shah) for the Im|Hackathon 2026 powered by AtomCamp Hackathon.
 
 ## 🚀 Project Overview
 
